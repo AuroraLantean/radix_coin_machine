@@ -1,1 +1,1 @@
-# radix_stablecoin
+# Radix CoinMachine
